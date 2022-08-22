@@ -1,0 +1,2 @@
+# tryagain-gamejam-22-08-2022
+Try Again is a procedural game. The player goes through rooms containting enemies, which have to be killed before being able to proced. Every time the player dies, he'll heve to start at the begining (the world doesn't change). After death, an afterimage is created which coppies every move done by the player in an earlier 'run', the afterimage disolves in a place where the player died last time.
